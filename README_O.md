@@ -128,4 +128,23 @@ export const servicesLink = [
 
 #### 65.Tours Component
 
+#### 70.Continuous Deployment - Setup
+
+-GitHub'a atmak için.
+-git init
+-git add .
+-git commit -m "first commit"
+-git remote add origin git@github.com:your-profile/repo-name.git
+-git branch -M main
+-git push -u origin main
+
+#### 71.Continuous Deployment - Benefits
+
+-Güncellemeleri GitHub'a atmak için.
+-git add .
+-git commit -m "message"
+-git push -u origin main
+
+#### 72.Continuous Deployment - "Gotcha"
+
 -
